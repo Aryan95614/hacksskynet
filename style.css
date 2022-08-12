@@ -1,0 +1,28 @@
+
+h1, h2, p, table, th, tr{
+  font-family: 'Silkscreen', cursive;
+  text-align: center;
+}
+
+#Links{
+  background-color: #74B8A0;
+  background-size: 75%;
+}
+
+#BasicCentre{
+  text-align: center;
+  align-items: center;
+}
+h3{
+  font-size: 40px;
+  text-align: center;
+}
+
+#CoolFont{
+  font-family: 'DynaPuff', cursive;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
